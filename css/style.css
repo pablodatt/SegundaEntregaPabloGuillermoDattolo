@@ -40,3 +40,12 @@ span{
     color: blue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
+
+ .preguntas {background-color: bisque;
+    display: block;
+    margin: 20px;
+    padding: auto;
+
+ }
+ body {
+    font-family: 'Satisfy', cursive;}
