@@ -41,6 +41,17 @@ span{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
  }
 
+<<<<<<< HEAD
  .preguntas {
     display: block;
  }
+=======
+ .preguntas {background-color: bisque;
+    display: block;
+    margin: 20px;
+    padding: auto;
+
+ }
+ body {
+    font-family: 'Satisfy', cursive;}
+>>>>>>> 48ee81848fb2478bbfebef111feec2a291c43b67
